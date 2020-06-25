@@ -1,0 +1,587 @@
+/* here you can put your own css to customize and override the theme */
+
+
+h1, h2, h3, h4, h5, h6 {
+  margin:0;
+  padding:0;
+}
+
+#wrap {
+  color:#000000;
+  font-size:14px;
+  line-height:20px;
+  text-align:left;
+}
+
+element.style {
+  backface-visibility:hidden;
+  display:block;
+  left:0;
+  position:absolute;
+  top:0;
+  width:100%;
+  z-index:10;
+}
+.mainslider img {
+  text-align:center;
+  width:auto !important;
+}
+
+}
+
+img {
+  border:0;
+}
+
+.mainslider {
+  text-align:center;
+}
+
+.transferslist li {
+  border-right:1px solid #FFFFFF;
+  color:#FFFFFF;
+  float:left;
+  font-size:15px;
+  font-weight:600;
+  line-height:2.4;
+  margin-bottom:0;
+  text-align:center;
+  text-transform:capitalize;
+  width:33.21%;
+}
+
+li {
+  color:#2F2B2B;
+  font-size:16px;
+  line-height:1.2;
+  margin-bottom:5px;
+}
+
+ul, li {
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+
+.our_partners {
+  background:#F5F8F1;
+  margin-top:15px;
+  padding:20px 0;
+  width:100%;
+}
+
+.our_partners h4 {
+  color:#B66700;
+  font-size:18px;
+  margin-bottom:2%;
+  text-align:center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin:0;
+  padding:0;
+}
+
+.translide h3 {
+  color:#68A400;
+  font-size:16px;
+  margin-bottom:5px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin:0;
+  padding:0;
+}
+
+#owl-demo1 .owl-item {
+  text-align:center;
+}
+
+.translide a {
+  clear:both;
+  color:#FF3701;
+  float:left;
+  font-size:16px;
+  width:100%;
+}
+
+a {
+  color:#000000;
+  text-decoration:none;
+}
+
+#owl-demo1 .owl-item {
+  text-align:center;
+}
+
+#owl-demo1 .owl-prev {
+  background:none;
+  display:block;
+  left:-2%;
+  position:absolute;
+}
+
+.owl-prev, .owl-next {
+  background:#68A400;
+  float:left;
+  font-family:calibri;
+  font-size:20px;
+  line-height:1;
+  margin-right:5px;
+  padding:0 8px 5px;
+  width:auto;
+}
+
+.owl-controls .owl-page,
+.owl-controls .owl-buttons div {
+  cursor:pointer;
+}
+
+.our_partners {
+  background:#F5F8F1;
+  margin-top:15px;
+  padding:20px 0;
+  width:100%;
+}
+
+section {
+  clear:both;
+  float:left;
+  width:100%;
+}
+
+section {
+  clear:both;
+  float:left;
+  width:100%;
+}
+
+footer .colm-3 {
+  float:left;
+  width:22%;
+}
+
+footer p {
+  color:#AAABA9;
+  font-size:14px;
+  line-height:1.5;
+}
+
+p {
+  color:#2F2B2B;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:16px;
+  line-height:1.2;
+  margin:10px 0 0;
+  padding:0;
+  text-align:justify;
+}
+
+footer {
+  background:#262921;
+  border-top:15px solid #68A400;
+  color:#AAABA9;
+  float:left;
+  padding:2% 0;
+  width:100%;
+}
+
+footer p {
+  color:#AAABA9;
+  font-size:14px;
+  line-height:1.5;
+}
+
+p {
+  color:#2F2B2B;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:16px;
+  line-height:1.2;
+  margin:10px 0 0;
+  padding:0;
+  text-align:justify;
+}
+
+footer {
+  color:#AAABA9;
+}
+
+footer ul li img {
+  width:100%;
+}
+
+img {
+  border:0;
+}
+
+a {
+  color:#000000;
+  text-decoration:none;
+}
+
+li {
+  font-size:16px;
+  line-height:1.2;
+}
+
+ul, li {
+  list-style:none;
+}
+
+ul, li {
+  list-style:none;
+}
+
+footer ul li {
+  border-right:1px solid #454444;
+  display:inline-block;
+  margin-left:10px;
+  padding-right:10px;
+}
+
+li {
+  font-size:16px;
+  line-height:1.2;
+  margin-bottom:5px;
+}
+
+ul, li {
+  list-style:none;
+}
+
+ul, li {
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+
+footer .colm-9 {
+  text-align:right;
+}
+
+footer {
+  color:#AAABA9;
+}
+
+a {
+  color:#000000;
+  text-decoration:none;
+}
+
+li {
+  font-size:16px;
+  line-height:1.2;
+}
+
+ul, li {
+  list-style:none;
+}
+
+img {
+  border:0;
+}
+
+.copyrights .leftwrap {
+  float:left;
+  line-height:3.5;
+  width:50%;
+}
+
+.copyrights {
+  font-size:14px;
+}
+
+.copyrights {
+  background:#E19C00;
+  float:left;
+  font-size:14px;
+  padding:5px 0;
+  width:100%;
+}
+
+.secure-payment ul li a {
+  color:#A2A2A2;
+}
+
+a {
+  color:#000000;
+  text-decoration:none;
+}
+
+.secure-payment ul {
+  float:right;
+  margin:0 0 0 5%;
+  width:auto;
+}
+
+.secure-payment h4 {
+  color:#FFFFFF;
+  font-size:14px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin:0;
+  padding:0;
+}
+
+footer ul {
+  margin-top:30px;
+}
+
+ul, li {
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+
+a {
+  color:#000000;
+  text-decoration:none;
+}
+
+.secure-payment ul li {
+  font-size:16px;
+  line-height:2.5;
+}
+
+li {
+  font-size:16px;
+  line-height:1.2;
+}
+
+ul, li {
+  list-style:none;
+}
+
+body {
+  color:#000000;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:16px;
+  font-style:normal;
+  font-variant:normal;
+  font-weight:normal;
+  line-height:normal;
+}
+
+.submit {
+  background:none 0 0 repeat scroll green;
+  border:medium none;
+  border-radius:6px;
+  color:#FFFFFF;
+  filter:none;
+  font-size:20px;
+  font-weight:bold;
+  padding:17px 0;
+  width:155px;
+}
+
+.exp {
+  background:none 0 0 repeat scroll #F2212C;
+  border:medium none;
+  border-radius:5px;
+  color:#FFFFFF;
+  filter:none;
+  font-size:18px;
+  font-weight:bold;
+  margin-top:35px;
+  padding:8px 20px;
+}
+
+h1 {
+  color:#FFFFFF;
+  font-family:fjallaoneregular;
+  font-size:55px;
+  letter-spacing:-2px;
+  line-height:60px;
+  margin-bottom:15px;
+  text-align:center;
+}
+
+element.style {
+  height:80px;
+  top:199px;
+}
+
+.jspDrag {
+  background:#F79200;
+  cursor:pointer;
+  position:relative;
+  top:0;
+}
+
+.jspVerticalBar *,
+.jspHorizontalBar * {
+  margin:0;
+  padding:0;
+}
+
+.excursionview .images {
+  border:1px solid #8DA422;
+  height:172px;
+  padding:3px;
+  width:240px;
+}
+
+* {
+  border:0;
+  list-style:none;
+  outline:none;
+  padding:0;
+}
+
+.excursionview .left h2 {
+  color:#8AA11D;
+  font-family:"Segoe UI", Arial;
+  font-size:22px;
+  font-stretch:normal;
+  font-style:normal;
+  font-variant:normal;
+  font-weight:normal;
+  line-height:normal;
+  margin:-4px 0 0;
+  padding:0;
+  text-align:left;
+  text-transform:capitalize;
+}
+
+h2 {
+  font-size:20px;
+  text-transform:uppercase;
+}
+
+* {
+  border:0;
+  list-style:none;
+  outline:none;
+  padding:0;
+}
+
+.triangulo_lateral{
+	 -moz-transform: translateX(0);
+	}
+.triangulo_lateral:before{
+	 	content: '';
+	 	-moz-transition-duration: 0.3s;
+
+	 	border-style: solid; 
+	 	border-width: 25px 25px 25px 0px;
+	 	border-color: transparent
+	 	              #f2f2f2
+	 	              transparent
+	 	              transparent;
+
+	 	position: absolute;
+	 	left: -30px;
+	 	top:  10%;
+	 	margin-top: 1px;
+
+}
+.triangulo_lateral:hover:before{
+	left: -53px;
+}
+
+/* sombre difuminada */
+
+.sombra_difuminada{
+	-moz-transition-duration: 0.5s;
+	box-shadow: 0px 0px 0px rgba(0,0,0,1)
+}
+.sombra_difuminada:hover{
+	box-shadow: 0px 0px 16px rgba(0,0,0,1)
+}
+
+/* resaltar los bordes */
+.resalte_borde{
+	box-shadow: inset 0 0 0 4px #ddd; 
+	-moz-transition-duration: 0.3s;
+}
+
+.resalte_borde{
+	box-shadow: inset 0 0 0 4px #555; 
+}
+
+/* sombra difiminada galeria de fotos */
+/* sombre difuminada */
+
+.sombra_difuminada_2{
+	-moz-transition-duration: 0.5s;
+	box-shadow: 0px 0px 8px rgba(0,0,0,1)
+}
+.sombra_difuminada_2:hover{
+	box-shadow: 0px 0px 26px rgba(0,0,0,1)
+}
+
+/* images popout on mouseover */
+
+.pic{
+	 margin: 5px;
+	width: 100px;
+	height: 90px;
+	display: inline-block;
+}
+.picbig{
+	position: absolute;
+	width: 0px;
+	-webkit-transition:width 0.3s linear 0s;
+	transition:width 0.3s linear 0s;
+	z-index: 10:;
+}
+.pic:hover + .picbig{
+    width: 200px;
+    
+    }
+
+ /* Back to top button */
+
+ #scroll {
+    position:fixed;
+    right:10px;
+    bottom:10px;
+    cursor:pointer;
+    width:50px;
+    height:50px;
+    background-color:#3498db;
+    text-indent:-9999px;
+    display:none;
+    -webkit-border-radius:60px;
+    -moz-border-radius:60px;
+    border-radius:60px
+}
+#scroll span {
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-left:-8px;
+    margin-top:-12px;
+    height:0;
+    width:0;
+    border:8px solid transparent;
+    border-bottom-color:#ffffff;
+}
+#scroll:hover {
+    background-color:#e74c3c;
+    opacity:1;filter:"alpha(opacity=100)";
+    -ms-filter:"alpha(opacity=100)";
+}
+
+/* efecto 3d cuando cargue la página */
+
+.giroX{
+	-moz-animation: 1.5s giroX 1;
+	-moz-backface-visibility:visible;
+}
+@-moz-keyframes giroX{
+	0%{
+		opacity:  0.5;
+		-moz-transform: perspective(200px)
+	                    rotateX(90deg);
+	}
+	40%{
+		-moz-transform: perspective(200px)
+	                    rotateX(-20deg);
+	}
+	70%{
+		-moz-transform: perspective(200px)
+	                    rotateX(20deg);
+}
+
