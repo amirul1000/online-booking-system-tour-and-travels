@@ -15,9 +15,8 @@ Travel agencies work by setting up accounts with tons of companies. When the age
 
 
 
-Youtube Tutorial : https://youtu.be/KuKlfsf3r0I
+Youtube Tutorial : https://youtu.be/J_98VL9I_qA
 
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
 Donate to Paypal : patabuz@gmail.com
 
